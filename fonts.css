@@ -1,0 +1,20 @@
+@font-face{
+	font-family:"Cinzel-Regular";
+	src: url('Fonts/Cinzel-Regular.ttf'); 
+}
+@font-face{
+	font-family:"Cinzel-Black";
+	src: url('Fonts/Cinzel-Black.ttf');
+}
+@font-face{
+	font-family:"Cinzel-Bold";
+	src: url('Fonts/Cinzel-Bold.ttf');
+}
+@font-face{
+	font-family:"Pacifico-Regular";
+	src: url('Fonts/Pacifico-Regular.ttf');
+}
+@font-face{
+	font-family: "AmaticSC-Bold";
+	src: url('Fonts/AmaticSC-Bold.ttf');
+}
